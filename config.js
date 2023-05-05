@@ -27,36 +27,36 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/AlyaaXd'
-global.syt = 'https://youtube.com/@AlyaaXzy ?'
-global.sgh = 'https://github.com/AlyaaXd'
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.sdc = 'https://wa.me/66289505165400'
-global.swa = 'wa.me/6289505165400'
+global.sig = 'https://instagram.com/Afgan123'
+global.syt = 'https://youtube.com/@Afgan1445 ?'
+global.sgh = 'https://github.co/Afgan222'
+global.sgc = 'https://chat.whatsapp.com/Bn5lEXIjczyKRLIuHiyFL9'
+global.sdc = 'https://wa.me/7282125968810'
+global.swa = 'wa.me/6282125968810'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085730903853'
+global.pdana = '082125968810'
 global.povo = '-'
-global.pgopay = '085730903853'
-global.ppulsa = '085730903853'
+global.pgopay = '-'
+global.ppulsa = '082125968810'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285730903853'
-global.nomorown = '6289505165400'
-global.namebot = 'DaunBotz'
-global.nameown = 'AlyaaXd'
+global.nomorbot = '628889100247'
+global.nomorown = '6282125968810'
+global.namebot = 'Gann BOT'
+global.nameown = 'Afgan XD'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289505165400'],
-  ['6289505165400'],
-  ['6289505165400'],
-  ['6289505165400', 'AlyaaXd', true]
+  ['6282125968810'],
+  ['6282125968810'],
+  ['999999999999999999'],
+  ['6282125968810', 'Afgan XD', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -108,17 +108,17 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝘼𝙗𝙞𝘿𝙚𝙫'//nama group kalian
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'PutraModz'
-global.wm3 = 'NexBotz | By PutraModz'
+global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 GannMods'//nama group kalian
+global.wm = 'By Afgan' //Main Watermark
+global.wm2 = 'AfganMods'
+global.wm3 = 'GannBotz | By AfganModz'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'PutraModz' 
-global.packname = 'PutraModz'
+global.author = 'Gann BOT MD' 
+global.packname = 'By AfganModz'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Februari 02 2023'
+global.ultahowner = 'September 06 2009'
 
 
 /*============== LOGO ==============*/
@@ -387,8 +387,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
-global.stickauth = `PutraModz`
+global.stickpack = 'By Gann
+global.stickauth = `afganbot`
 
 global.multiplier = 38 // The higher, The harder levelup
 
